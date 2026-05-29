@@ -35,6 +35,9 @@ El proyecto está diseñado para ejecutarse en el entorno virtual de Google Cola
    ```bash
    !git clone https://github.com/Mauus1/Analisis_de_ventas_TP
 2. Ingresar al directorio del proyecto:
-3. Ejecutar el script de análisis:
-4. 
-Resultados: Al ejecutar el script, la consola imprimira los totales calculados. Ademas, se generara de manera automatica un archivo llamado evolucion_ventas.txt dentro de la carpeta /resultados que contendrá el gráfico de la evolución mensual.
+   ```bash
+   %cd TU_REPO
+4. Ejecutar el programa Una vez dentro de la carpeta:
+   ```bash
+   !python scripts/analisis_ventas.py
+5. Resultados: Al ejecutar el script, la consola imprimira los totales calculados. Ademas, se generara de manera automatica un archivo llamado evolucion_ventas.txt dentro de la carpeta /resultados que contendrá el gráfico de la evolución mensual.
