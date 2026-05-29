@@ -33,7 +33,7 @@ El proyecto está diseñado para ejecutarse en el entorno virtual de Google Cola
 
 1. **Clonar el repositorio:**
    ```bash
-   !git clone https://github.com/TU_USUARIO/TU_REPO.git
+   !git clone https://github.com/Mauus1/Analisis_de_ventas_TP
 2. Ingresar al directorio del proyecto:
 3. Ejecutar el script de análisis:
 4. 
